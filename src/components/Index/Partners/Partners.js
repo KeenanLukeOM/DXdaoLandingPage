@@ -1,6 +1,6 @@
 import React from "react"
 import styled from 'styled-components';
-import OffchainLabs from '../../../images/landing/svg/Logo-Offchain.svg';
+import Arbitrum from '../../../images/landing/svg/Logo-Arbitrum.svg';
 import Gnosis from '../../../images/landing/svg/Logo-Gnosis.svg';
 import Loopring from '../../../images/landing/svg/Logo-Loopring.svg';
 import xDai from '../../../images/landing/svg/Logo-xDai.svg';
@@ -12,7 +12,7 @@ import {breakpoints} from "./../../../utils/theme";
 const Partners = () => {
     const partnerLogos = [
         {
-            img: OffchainLabs,
+            img: Arbitrum,
             to: 'https://offchainlabs.com/'
         },
         {
@@ -178,6 +178,7 @@ const StyledPartnersWrapper = styled.section`
                     max-height: 71px;
                 }
                 @media screen and (max-width: ${breakpoints.md}) {
+                    max-width: 90px;
                     max-height: 40px;
                 }
             }

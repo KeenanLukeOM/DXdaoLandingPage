@@ -11,7 +11,9 @@ const Footer = () => {
                <section className="footer-menu">
                     <section className="footer-container">
                         <section className="logo-area">
-                            <img src={DaoIcon} className="logo" />
+                            <a href={'/'} title={'Home'}>
+                                <img src={DaoIcon} className="logo" />
+                            </a>
                         </section>
                         <FooterNavigation />
                     </section>
