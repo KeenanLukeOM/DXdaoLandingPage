@@ -178,10 +178,7 @@ const StyledPartnersWrapper = styled.section`
                     max-height: 71px;
                 }
                 @media screen and (max-width: ${breakpoints.md}) {
-<<<<<<< HEAD
                     max-width: 90px;
-=======
->>>>>>> e02daf6d192b50bce51adfd59c2ba54cbf95e7b8
                     max-height: 40px;
                 }
             }
