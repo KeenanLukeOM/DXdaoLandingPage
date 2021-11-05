@@ -36,6 +36,7 @@
   },
   "devDependencies": {
     "gatsby-plugin-favicons": "^2.0.0",
+    "git-rev-sync": "^3.0.1",
     "globby": "^8.0.1",
     "mini-css-extract-plugin": "^2.4.4",
     "polished": "^4.1.3",

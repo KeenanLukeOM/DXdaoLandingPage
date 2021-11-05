@@ -2,6 +2,7 @@ const globby = require("globby");
 const fs = require("fs");
 const util = require("util");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
+const git = require("git-rev-sync");
 
 const readFile = util.promisify(fs.readFile);
 const writeFile = util.promisify(fs.writeFile);
@@ -91,4 +92,11 @@ exports.onPostBuild = async () => {
     const newName = newNames[i];
     await renameFile(path, path.replace(oldName, newName));
   }
+
+  const appData = require(`${__dirname}/public/page-data/app-data.json`);
+  appData.webpackCompilationHash = git.long();
+  await writeFile(
+    `${__dirname}/public/page-data/app-data.json`,
+    JSON.stringify(appData)
+  );
 };
