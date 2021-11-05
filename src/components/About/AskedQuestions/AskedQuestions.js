@@ -36,7 +36,7 @@ const AskedQuestions = () => {
             ask: 'How does decision making happen in DXdao?',
             reply: 
                 <p>
-                    DXdao reputation holders vote on proposals on-chain, using DAOstack’s Alchemy interface and holographic consensus. This means some proposals can pass by a relative majority, and other times an absolute majority is needed. This depends on the type of proposal, and if the proposal is boosted by reaching a specific staking threshold. In general, though, the DXdao coalesces around ideas and achieves rough consensus through off-chain, less formal methods, such as weekly calls, discussion forums, and chat groups. All of these are open to the public.
+                    DXdao reputation holders vote on proposals on-chain, using DXdao's governance interface, DXvote, and holographic consensus. This means some proposals can pass by a relative majority, and other times an absolute majority is needed. This depends on the type of proposal, and if the proposal is boosted by reaching a specific staking threshold. In general, though, the DXdao coalesces around ideas and achieves rough consensus through off-chain, less formal methods, such as weekly calls, discussion forums, and chat groups. All of these are open to the public.
                 </p>
         
         },
