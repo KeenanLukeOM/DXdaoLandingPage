@@ -122,7 +122,7 @@ export const footerNavigation = [
     items: [
       {
         title: "DXvote",
-        link: "https://dxdocs.eth.link/docs/Governance/DXvote/",
+        url: "https://dxdocs.eth.link/docs/Governance/DXvote/",
         external: true,
       },
       {
@@ -289,11 +289,6 @@ export const learnNavigation = [
     title: "Governance",
     items: [
       {
-        title: "DXvote",
-        link: "https://dxdocs.eth.link/docs/Governance/DXvote/",
-        external: true,
-      },
-      {
         title: "REP",
         url: "https://dxdocs.eth.link/docs/Governance/REP/",
         external: true,
@@ -301,6 +296,11 @@ export const learnNavigation = [
       {
         title: "DAOtalk",
         url: "https://dxdocs.eth.link/docs/Governance/Daotalk/",
+        external: true,
+      },
+      {
+        title: "DXvote",
+        url: "https://dxdocs.eth.link/docs/Governance/DXvote/",
         external: true,
       },
     ],
@@ -393,7 +393,7 @@ export const mobileFooterNavigation = [
     items: [
       {
         title: "DXvote",
-        link: "https://dxdocs.eth.link/docs/Governance/DXvote/",
+        url: "https://dxdocs.eth.link/docs/Governance/DXvote/",
         external: true,
       },
       {
