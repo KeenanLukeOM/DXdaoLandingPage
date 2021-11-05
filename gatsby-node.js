@@ -65,9 +65,12 @@ exports.onPostBuild = async () => {
   ]);
 
   const newNames = oldNames.map((oldName) => {
-    if (/-.+.png/.test(oldName)) return oldName.replace(/-.+.png/, ".png");
-    else if (/-.+.svg/.test(oldName)) return oldName.replace(/-.+.svg/, ".svg");
-    else if (/-.+.ttf/.test(oldName)) return oldName.replace(/-.+.ttf/, ".ttf");
+    if (/-[a-zA-Z0-9]+.png$/.test(oldName))
+      return oldName.replace(/-[a-zA-Z0-9]+.png$/, ".png");
+    else if (/-[a-zA-Z0-9]+.svg$/.test(oldName))
+      return oldName.replace(/-[a-zA-Z0-9]+.svg$/, ".svg");
+    else if (/-[a-zA-Z0-9]+.ttf$/.test(oldName))
+      return oldName.replace(/-[a-zA-Z0-9]+.ttf$/, ".ttf");
     else throw new Error("could not convert file name");
   });
 
