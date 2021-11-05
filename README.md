@@ -1,5 +1,3 @@
-# Build Instructions 
-
 ## DXdao Website
 
 The DXdao website was built using Gatsby, a React framework used to build static sites more easily. You can find more detailed information about the build process using Gatsby [here](https://docs.google.com/spreadsheets/d/1I_CEgVf2uXw-o-zxDba5C5zkh_gbrVpwYYA2ih2noEo/edit#gid=131502125).
