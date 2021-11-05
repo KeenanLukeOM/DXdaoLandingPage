@@ -123,8 +123,8 @@ const Products = () => {
       positionText: "center",
       description: (
         <span>
-          Governance 2.0
-          <br />A platform made for DAOs by a DAO
+          Governance 2.0.
+          <br />A platform made for DAOs by a DAO.
           <br />
           Reputation, token voting and holographic consensus.
         </span>
