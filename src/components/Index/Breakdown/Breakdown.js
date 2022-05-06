@@ -1,8 +1,8 @@
-import React, {useState, useEffect} from "react"
+import React, { useState, useEffect } from "react"
 import styled from 'styled-components';
 import BreakDownImage from './../../../images/landing/breakdown_image.png';
 import BreakDownImageMobile from './../../../images/landing/Graphic-Social_Mobile.png';
-import {breakpoints} from './../../../utils/theme';
+import { breakpoints } from './../../../utils/theme';
 
 const Breakdown = (props) => {
 
@@ -33,7 +33,7 @@ const Breakdown = (props) => {
     return (
         <StyledBreakdownWrapper className="main-width">
             <div className="breakdown-content">
-                <DetailsColumn 
+                <DetailsColumn
                     aosDelay={200}
                     title={'400+'}
                     detail={'Over 400 unique stakeholder addresses'}
@@ -41,10 +41,10 @@ const Breakdown = (props) => {
                 <div className="image-column" data-aos="fade-up">
                     <div className="breakdown-image" />
                 </div>
-                <DetailsColumn 
+                <DetailsColumn
                     aosDelay={400}
-                    title={`${tvl}m`}
-                    detail={<span>TVL in DXdao<br/> products</span>}
+                    title={`$${tvl}m`}
+                    detail={<span>TVL in DXdao<br /> products</span>}
                 />
             </div>
             <div className="blue-gradient" />

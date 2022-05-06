@@ -1,5 +1,5 @@
-import React, {useEffect} from "react"
-import styled, {ThemeProvider} from 'styled-components';
+import React, { useEffect } from "react"
+import styled, { ThemeProvider } from 'styled-components';
 import theme from './../utils/theme';
 import AboutHero from './../components/About/AboutHero/AboutHero';
 import './../css/stylesheet.css';
@@ -25,7 +25,7 @@ const AboutPage = () => {
   return (
     <ThemeProvider theme={theme}>
       <Helmet>
-        <title>dxDao | About</title>
+        <title>DXdao | Vision</title>
       </Helmet>
       <StyledRoot id="root">
         <Header>

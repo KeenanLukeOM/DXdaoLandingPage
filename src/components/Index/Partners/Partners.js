@@ -7,7 +7,8 @@ import xDai from '../../../images/landing/svg/Logo-xDai.svg';
 import Opolis from '../../../images/landing/svg/Logo-Opolis.svg';
 import DAOstack from '../../../images/landing/svg/Logo-DAOstack.svg';
 import Status from '../../../images/landing/svg/Logo-Status.svg';
-import {breakpoints} from "./../../../utils/theme";
+import Agave from '../../../images/landing/svg/agave.svg';
+import { breakpoints } from "./../../../utils/theme";
 
 const Partners = () => {
     const partnerLogos = [
@@ -20,24 +21,28 @@ const Partners = () => {
             to: 'https://gnosis.io/'
         },
         {
-            img: Loopring,
-            to: 'https://loopring.org/#/'
-        },
-        {
             img: xDai,
             to: 'https://www.xdaichain.com/'
+        },
+        {
+            img: Loopring,
+            to: 'https://loopring.org/#/'
         },
         {
             img: Opolis,
             to: 'https://opolis.co/'
         },
         {
-            img: DAOstack,
-            to: 'https://daostack.io/'
-        },
-        {
             img: Status,
             to: 'https://status.im/'
+        },
+        {
+            img: Agave,
+            to: 'https://agave.finance/'
+        },
+        {
+            img: DAOstack,
+            to: 'https://daostack.io/'
         }
     ]
 
@@ -47,18 +52,18 @@ const Partners = () => {
                 <span className="title-text">OUR PARTNERS</span>
             </section>
             <section className="partners-list">
-                {partnerLogos.map((partner, i) => 
-                    (
-                        <div className="image-container" data-aos="fade-up" key={i}>
-                            <a target={'_blank'} href={partner.to}>
-                                <img 
-                                    key={i}
-                                    className={'partner-logo'} 
-                                    src={partner.img} 
-                                />
-                            </a>
-                        </div>
-                    ))
+                {partnerLogos.map((partner, i) =>
+                (
+                    <div className="image-container" data-aos="fade-up" key={i}>
+                        <a target={'_blank'} href={partner.to}>
+                            <img
+                                key={i}
+                                className={'partner-logo'}
+                                src={partner.img}
+                            />
+                        </a>
+                    </div>
+                ))
                 }
             </section>
         </StyledPartnersWrapper>
