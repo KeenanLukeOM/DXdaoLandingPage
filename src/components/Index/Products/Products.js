@@ -73,6 +73,27 @@ const Products = () => {
       },
     },
     {
+      img: Carrot,
+      title: "Carrot",
+      positionImg: "center",
+      positionText: "center",
+      description:
+        "Carrot gives users permissionless access to create community-driven programmable incentives that reward them when set criterias are met.",
+      primaryButton: {
+        size: "small",
+        type: "secondary",
+        label: "USE CARROT",
+        disabled: false,
+        to: "https://carrot.eth.link",
+      },
+      secondaryButton: {
+        size: "small",
+        type: "outline",
+        label: "LEARN MORE",
+        to: "https://dxdocs.eth.link/docs/Products/carrot/",
+      },
+    },
+    {
       img: Aqua,
       title: "Aqua",
       positionImg: "center",
@@ -92,28 +113,7 @@ const Products = () => {
         label: "LEARN MORE",
         to: "https://dxdocs.eth.link/docs/Products/aqua/",
       },
-    },
-    {
-      img: Carrot,
-      title: "Carrot",
-      positionImg: "center",
-      positionText: "center",
-      description:
-        "Carrot gives users permissionless access to create community-driven programmable incentives that reward them when set criterias are met.",
-      primaryButton: {
-        size: "small",
-        type: "secondary",
-        label: "COMING SOON",
-        disabled: true,
-        to: "https://carrot.eth.link",
-      },
-      secondaryButton: {
-        size: "small",
-        type: "outline",
-        label: "LEARN MORE",
-        to: "https://dxdocs.eth.link/docs/Products/carrot/",
-      },
-    },
+    }
     ,
     {
       img: DXgov,
@@ -139,7 +139,7 @@ const Products = () => {
         size: "small",
         type: "outline",
         label: "LEARN MORE",
-        to: "https://dxdocs.eth.link/docs/Governance/DXvote",
+        to: "https://dxdocs.eth.link/docs/Governance/DXvote/",
       },
     },
   ];
