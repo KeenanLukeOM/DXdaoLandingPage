@@ -1,7 +1,7 @@
-import React, {useEffect, useState, useRef} from "react"
-import styled, {keyframes} from 'styled-components';
+import React, { useEffect, useState, useRef } from "react"
+import styled, { keyframes } from 'styled-components';
 import Button from './../../common/Button/Button';
-import {breakpoints} from './../../../utils/theme';
+import { breakpoints } from './../../../utils/theme';
 import LogoDiscord from './../../../images/landing/svg/Logo-Discord.svg';
 import LogoKeybase from './../../../images/landing/svg/Logo-Keybase.svg';
 import LogoDAOtalk from './../../../images/landing/daotalk.png';
@@ -50,7 +50,7 @@ const IndexHero = (props) => {
             });
         }
     }, []);
-    
+
     useEffect(() => {
         setIsMobile(viewportWidth < 992);
     }, [viewportWidth]);
@@ -61,7 +61,7 @@ const IndexHero = (props) => {
             behavior: 'smooth'
         })
     };
-    
+
     const links = [
         {
             alt: 'Discord',
@@ -83,14 +83,14 @@ const IndexHero = (props) => {
     return (
         <StyledIndexHero className="hero full-width" scrollPosition={scrollPosition}>
             <div className="main-width hero-content">
-                <span className="pre-heading">The first <br/>super-scalable collective</span>
-                <h1 className="heading">We decentralize DeFi</h1>
+                <span className="pre-heading">The first <br />super-scalable collective</span>
+                <h1 className="heading">We Decentralize DeFi</h1>
                 <p>DXdao is a decentralized autonomous organization, or DAO, that develops, governs, and grows DeFi products. Spawned in May of 2019, DXdao is a highly scalable collective focused on the DeFi ecosystem.</p>
-                <Button 
+                <Button
                     external
                     to={'https://discord.gg/4QXEJQkvHH'}
                     label={'Join Our Discord'} type={'primary'} />
-                <div 
+                <div
                     className="hero-footer"
                 >
                     <span>
@@ -101,9 +101,9 @@ const IndexHero = (props) => {
                         <ul>
                             {links.map((link, i) => (
                                 <li key={i}>
-                                    <Button 
+                                    <Button
                                         className={'community-icon-button'}
-                                        type="icon" 
+                                        type="icon"
                                         to={link.to}
                                         iconImage={link.logoImg}
                                         external
@@ -115,82 +115,82 @@ const IndexHero = (props) => {
                 </div>
             </div>
             <div className="hero-background">
-                <div 
+                <div
                     data-aos={'fade'}
                     className="blue-gradient"
                 />
                 <div ref={LeftGraphicRef} className={'left-graphic hero-lateral-graphic'}>
-                    <div className={'square-bottom'} 
+                    <div className={'square-bottom'}
                         style={{
                             left: scrollPosition / 5,
-                            backgroundSize: windowWidth < 1365 ? 
+                            backgroundSize: windowWidth < 1365 ?
                                 '80%' :
                                 '100%',
-                            backgroundPosition: windowWidth < 1365 ? 
+                            backgroundPosition: windowWidth < 1365 ?
                                 '-40px center' :
                                 'center',
                         }}
                     />
-                    <div className={'square-middle'} 
+                    <div className={'square-middle'}
                         style={{
                             left: -80 + (scrollPosition / 3),
-                            backgroundSize: windowWidth < 1365 ? 
+                            backgroundSize: windowWidth < 1365 ?
                                 '80%' :
                                 '100%',
-                            backgroundPosition: windowWidth < 1365 ? 
+                            backgroundPosition: windowWidth < 1365 ?
                                 '-40px center' :
                                 'center',
                         }}
                     />
                     <div className={'square-top'}
                         style={{
-                            left: windowWidth < 1365 ? 
+                            left: windowWidth < 1365 ?
                                 0 + (scrollPosition / 2) :
                                 180 + (scrollPosition / 2),
-                            backgroundSize: windowWidth < 1365 ? 
+                            backgroundSize: windowWidth < 1365 ?
                                 '140%' :
                                 'unset',
-                            backgroundPosition: windowWidth < 1365 ? 
+                            backgroundPosition: windowWidth < 1365 ?
                                 '0px calc(50% - 10px)' :
                                 'center',
-                        }} 
+                        }}
                     />
                 </div>
                 <div className="right-graphic">
-                    <div className={'square-bottom'} 
+                    <div className={'square-bottom'}
                         style={{
                             left: scrollPosition / 5,
-                            backgroundSize: windowWidth < 1365 ? 
+                            backgroundSize: windowWidth < 1365 ?
                                 '80%' :
                                 '100%',
-                            backgroundPosition: windowWidth < 1365 ? 
+                            backgroundPosition: windowWidth < 1365 ?
                                 '-40px center' :
                                 'center',
                         }}
                     />
-                    <div className={'square-middle'} 
+                    <div className={'square-middle'}
                         style={{
                             left: -80 + (scrollPosition / 3),
-                            backgroundSize: windowWidth < 1365 ? 
+                            backgroundSize: windowWidth < 1365 ?
                                 '80%' :
                                 '100%',
-                            backgroundPosition: windowWidth < 1365 ? 
+                            backgroundPosition: windowWidth < 1365 ?
                                 '-40px center' :
                                 'center',
                         }}
                     />
                     <div className={'square-top'}
                         style={{
-                            left: windowWidth < 1365 ? 
+                            left: windowWidth < 1365 ?
                                 0 + (scrollPosition / 2) :
                                 180 + (scrollPosition / 2),
-                            backgroundSize: windowWidth < 1365 ? 
+                            backgroundSize: windowWidth < 1365 ?
                                 '140%' :
                                 'unset',
-                            backgroundPosition: windowWidth < 1365 ? 
+                            backgroundPosition: windowWidth < 1365 ?
                                 '0px calc(50% - 10px)' :
                                 'center',
-                        }} 
+                        }}
                     />
                 </div>
             </div>
