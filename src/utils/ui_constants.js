@@ -17,27 +17,27 @@ export const footerNavigation = [
       },
       {
         title: "DXD",
-        url: "https://dxdocs.eth.link/docs/DXD/",
+        url: "https://dxdocs.eth.limo/docs/DXD/",
         external: true,
       },
       {
         title: "Manifesto",
-        url: "https://dxdocs.eth.link/docs/Manifesto/",
+        url: "https://dxdocs.eth.limo/docs/Manifesto/",
         external: true,
       },
       {
         title: "DXventures",
-        url: "https://dxdocs.eth.link/docs/DXventures/",
+        url: "https://dxdocs.eth.limo/docs/DXventures/",
         external: true,
       },
       {
         title: "Meetings",
-        url: "https://dxdocs.eth.link/docs/Meetings/",
+        url: "https://dxdocs.eth.limo/docs/Meetings/",
         external: true,
       },
       {
         title: "Brand Assets",
-        url: "https://dxdocs.eth.link/docs/BrandingAssets/",
+        url: "https://dxdocs.eth.limo/docs/BrandingAssets/",
         external: true,
       },
       {
@@ -47,12 +47,12 @@ export const footerNavigation = [
       },
       {
         title: "Codebase",
-        url: "https://dxdocs.eth.link/docs/Codebase/",
+        url: "https://dxdocs.eth.limo/docs/Codebase/",
         external: true,
       },
       {
         title: "FAQ",
-        url: "https://dxdocs.eth.link/docs/FAQ/",
+        url: "https://dxdocs.eth.limo/docs/FAQ/",
         external: true,
       },
     ],
@@ -62,32 +62,32 @@ export const footerNavigation = [
     items: [
       {
         title: "Omen",
-        url: "https://dxdocs.eth.link/docs/Products/omen/",
+        url: "https://dxdocs.eth.limo/docs/Products/omen/",
         external: true,
       },
       {
         title: "Swapr",
-        url: "https://dxdocs.eth.link/docs/Products/swapr/",
+        url: "https://dxdocs.eth.limo/docs/Products/swapr/",
         external: true,
       },
       {
         title: "Mesa",
-        url: "https://dxdocs.eth.link/docs/Products/mesa/",
+        url: "https://dxdocs.eth.limo/docs/Products/mesa/",
         external: true,
       },
       {
         title: "Aqua",
-        url: "https://dxdocs.eth.link/docs/Products/aqua/",
+        url: "https://dxdocs.eth.limo/docs/Products/aqua/",
         external: true,
       },
       {
         title: "Carrot",
-        url: "https://dxdocs.eth.link/docs/Products/carrot/",
+        url: "https://dxdocs.eth.limo/docs/Products/carrot/",
         external: true,
       },
       {
         title: "DXgov",
-        url: "https://dxdocs.eth.link/docs/Products/dxgov/",
+        url: "https://dxdocs.eth.limo/docs/Products/dxgov/",
         external: true,
       },
     ],
@@ -122,27 +122,27 @@ export const footerNavigation = [
     items: [
       {
         title: "DXvote",
-        url: "https://dxdocs.eth.link/docs/Governance/DXvote/",
+        url: "https://dxdocs.eth.limo/docs/Governance/DXvote/",
         external: true,
       },
       {
         title: "REP",
-        url: "https://dxdocs.eth.link/docs/Governance/REP/",
+        url: "https://dxdocs.eth.limo/docs/Governance/REP/",
         external: true,
       },
       {
         title: "DAOtalk",
-        url: "https://dxdocs.eth.link/docs/Governance/Daotalk/",
+        url: "https://dxdocs.eth.limo/docs/Governance/Daotalk/",
         external: true,
       },
       {
         title: "Snapshot",
-        url: "https://dxdocs.eth.link/docs/Governance/Snapshot/",
+        url: "https://dxdocs.eth.limo/docs/Governance/Snapshot/",
         external: true,
       },
       {
         title: "Alchemy",
-        url: "https://dxdocs.eth.link/docs/Governance/Alchemy/",
+        url: "https://dxdocs.eth.limo/docs/Governance/Alchemy/",
         external: true,
       },
     ],
@@ -152,27 +152,27 @@ export const footerNavigation = [
     items: [
       {
         title: "Open Positions",
-        url: "https://dxdocs.eth.link/docs/ContributorHub/open-positions-and-bounties/",
+        url: "https://dxdocs.eth.limo/docs/ContributorHub/open-positions-and-bounties/",
         external: true,
       },
       {
         title: "Onboarding",
-        url: "https://dxdocs.eth.link/docs/ContributorHub/contributor-onboarding/",
+        url: "https://dxdocs.eth.limo/docs/ContributorHub/contributor-onboarding/",
         external: true,
       },
       {
         title: "Proposals",
-        url: "https://dxdocs.eth.link/docs/ContributorHub/contributor-proposals/",
+        url: "https://dxdocs.eth.limo/docs/ContributorHub/contributor-proposals/",
         external: true,
       },
       {
         title: "Compensations",
-        url: "https://dxdocs.eth.link/docs/ContributorHub/contributor-compensation/",
+        url: "https://dxdocs.eth.limo/docs/ContributorHub/contributor-compensation/",
         external: true,
       },
       {
         title: "Standards of Conduct",
-        url: "https://dxdocs.eth.link/docs/ContributorHub/standards-of-conduct/",
+        url: "https://dxdocs.eth.limo/docs/ContributorHub/standards-of-conduct/",
         external: true,
       },
     ],
@@ -185,32 +185,32 @@ export const learnNavigation = [
     items: [
       {
         title: "DXD",
-        url: "https://dxdocs.eth.link/docs/DXD/",
+        url: "https://dxdocs.eth.limo/docs/DXD/",
         external: true,
       },
       {
         title: "Manifesto",
-        url: "https://dxdocs.eth.link/docs/Manifesto/",
+        url: "https://dxdocs.eth.limo/docs/Manifesto/",
         external: true,
       },
       {
         title: "FAQ",
-        url: "https://dxdocs.eth.link/docs/FAQ/",
+        url: "https://dxdocs.eth.limo/docs/FAQ/",
         external: true,
       },
       {
         title: "DXventures",
-        url: "https://dxdocs.eth.link/docs/DXventures/",
+        url: "https://dxdocs.eth.limo/docs/DXventures/",
         external: true,
       },
       {
         title: "Meetings",
-        url: "https://dxdocs.eth.link/docs/Meetings/",
+        url: "https://dxdocs.eth.limo/docs/Meetings/",
         external: true,
       },
       {
         title: "Brand Assets",
-        url: "https://dxdocs.eth.link/docs/BrandingAssets/",
+        url: "https://dxdocs.eth.limo/docs/BrandingAssets/",
         external: true,
       },
       // {
@@ -220,7 +220,7 @@ export const learnNavigation = [
       // },
       // {
       //     title: 'Codebase',
-      //     url: 'https://dxdocs.eth.link/docs/Codebase/',
+      //     url: 'https://dxdocs.eth.limo/docs/Codebase/',
       //     external: true
       // },
     ],
@@ -230,32 +230,32 @@ export const learnNavigation = [
     items: [
       {
         title: "Omen",
-        url: "https://dxdocs.eth.link/docs/Products/omen/",
+        url: "https://dxdocs.eth.limo/docs/Products/omen/",
         external: true,
       },
       {
         title: "Swapr",
-        url: "https://dxdocs.eth.link/docs/Products/swapr/",
+        url: "https://dxdocs.eth.limo/docs/Products/swapr/",
         external: true,
       },
       {
         title: "Mesa",
-        url: "https://dxdocs.eth.link/docs/Products/mesa/",
+        url: "https://dxdocs.eth.limo/docs/Products/mesa/",
         external: true,
       },
       {
         title: "Aqua",
-        url: "https://dxdocs.eth.link/docs/Products/aqua/",
+        url: "https://dxdocs.eth.limo/docs/Products/aqua/",
         external: true,
       },
       {
         title: "Carrot",
-        url: "https://dxdocs.eth.link/docs/Products/carrot/",
+        url: "https://dxdocs.eth.limo/docs/Products/carrot/",
         external: true,
       },
       {
         title: "DXgov",
-        url: "https://dxdocs.eth.link/docs/Products/dxgov/",
+        url: "https://dxdocs.eth.limo/docs/Products/dxgov/",
         external: true,
       },
     ],
@@ -290,17 +290,17 @@ export const learnNavigation = [
     items: [
       {
         title: "REP",
-        url: "https://dxdocs.eth.link/docs/Governance/REP/",
+        url: "https://dxdocs.eth.limo/docs/Governance/REP/",
         external: true,
       },
       {
         title: "DAOtalk",
-        url: "https://dxdocs.eth.link/docs/Governance/Daotalk/",
+        url: "https://dxdocs.eth.limo/docs/Governance/Daotalk/",
         external: true,
       },
       {
         title: "DXvote",
-        url: "https://dxdocs.eth.link/docs/Governance/DXvote/",
+        url: "https://dxdocs.eth.limo/docs/Governance/DXvote/",
         external: true,
       },
     ],
@@ -310,27 +310,27 @@ export const learnNavigation = [
     items: [
       {
         title: "Open Positions",
-        url: "https://dxdocs.eth.link/docs/ContributorHub/open-positions-and-bounties/",
+        url: "https://dxdocs.eth.limo/docs/ContributorHub/open-positions-and-bounties/",
         external: true,
       },
       {
         title: "Onboarding",
-        url: "https://dxdocs.eth.link/docs/ContributorHub/contributor-onboarding/",
+        url: "https://dxdocs.eth.limo/docs/ContributorHub/contributor-onboarding/",
         external: true,
       },
       {
         title: "Proposals",
-        url: "https://dxdocs.eth.link/docs/ContributorHub/contributor-proposals/",
+        url: "https://dxdocs.eth.limo/docs/ContributorHub/contributor-proposals/",
         external: true,
       },
       {
         title: "Compensations",
-        url: "https://dxdocs.eth.link/docs/ContributorHub/contributor-compensation/",
+        url: "https://dxdocs.eth.limo/docs/ContributorHub/contributor-compensation/",
         external: true,
       },
       {
         title: "Standards of Conduct",
-        url: "https://dxdocs.eth.link/docs/ContributorHub/standards-of-conduct/",
+        url: "https://dxdocs.eth.limo/docs/ContributorHub/standards-of-conduct/",
         external: true,
       },
     ],
@@ -348,27 +348,27 @@ export const mobileFooterNavigation = [
       },
       {
         title: "DXD",
-        url: "https://dxdocs.eth.link/docs/DXD/",
+        url: "https://dxdocs.eth.limo/docs/DXD/",
         external: true,
       },
       {
         title: "Manifesto",
-        url: "https://dxdocs.eth.link/docs/Manifesto/",
+        url: "https://dxdocs.eth.limo/docs/Manifesto/",
         external: true,
       },
       {
         title: "DXventures",
-        url: "https://dxdocs.eth.link/docs/DXventures/",
+        url: "https://dxdocs.eth.limo/docs/DXventures/",
         external: true,
       },
       {
         title: "Meetings",
-        url: "https://dxdocs.eth.link/docs/Meetings/",
+        url: "https://dxdocs.eth.limo/docs/Meetings/",
         external: true,
       },
       {
         title: "Brand Assets",
-        url: "https://dxdocs.eth.link/docs/BrandingAssets/",
+        url: "https://dxdocs.eth.limo/docs/BrandingAssets/",
         external: true,
       },
       {
@@ -378,12 +378,12 @@ export const mobileFooterNavigation = [
       },
       {
         title: "Codebase",
-        url: "https://dxdocs.eth.link/docs/Codebase/",
+        url: "https://dxdocs.eth.limo/docs/Codebase/",
         external: true,
       },
       {
         title: "FAQ",
-        url: "https://dxdocs.eth.link/docs/FAQ/",
+        url: "https://dxdocs.eth.limo/docs/FAQ/",
         external: true,
       },
     ],
@@ -393,27 +393,27 @@ export const mobileFooterNavigation = [
     items: [
       {
         title: "DXvote",
-        url: "https://dxdocs.eth.link/docs/Governance/DXvote/",
+        url: "https://dxdocs.eth.limo/docs/Governance/DXvote/",
         external: true,
       },
       {
         title: "REP",
-        url: "https://dxdocs.eth.link/docs/Governance/REP/",
+        url: "https://dxdocs.eth.limo/docs/Governance/REP/",
         external: true,
       },
       {
         title: "DAOtalk",
-        url: "https://dxdocs.eth.link/docs/Governance/Daotalk/",
+        url: "https://dxdocs.eth.limo/docs/Governance/Daotalk/",
         external: true,
       },
       {
         title: "Snapshot",
-        url: "https://dxdocs.eth.link/docs/Governance/Snapshot/",
+        url: "https://dxdocs.eth.limo/docs/Governance/Snapshot/",
         external: true,
       },
       {
         title: "Alchemy",
-        url: "https://dxdocs.eth.link/docs/Governance/Alchemy/",
+        url: "https://dxdocs.eth.limo/docs/Governance/Alchemy/",
         external: true,
       },
     ],
@@ -448,32 +448,32 @@ export const mobileFooterNavigation = [
     items: [
       {
         title: "Omen",
-        url: "https://dxdocs.eth.link/docs/Products/omen/",
+        url: "https://dxdocs.eth.limo/docs/Products/omen/",
         external: true,
       },
       {
         title: "Swapr",
-        url: "https://dxdocs.eth.link/docs/Products/swapr/",
+        url: "https://dxdocs.eth.limo/docs/Products/swapr/",
         external: true,
       },
       {
         title: "Mesa",
-        url: "https://dxdocs.eth.link/docs/Products/mesa/",
+        url: "https://dxdocs.eth.limo/docs/Products/mesa/",
         external: true,
       },
       {
         title: "Aqua",
-        url: "https://dxdocs.eth.link/docs/Products/aqua/ ",
+        url: "https://dxdocs.eth.limo/docs/Products/aqua/ ",
         external: true,
       },
       {
         title: "Carrot",
-        url: "https://dxdocs.eth.link/docs/Products/carrot/",
+        url: "https://dxdocs.eth.limo/docs/Products/carrot/",
         external: true,
       },
       {
         title: "DXgov",
-        url: "https://dxdocs.eth.link/docs/Products/dxgov/",
+        url: "https://dxdocs.eth.limo/docs/Products/dxgov/",
         external: true,
       },
     ],
@@ -483,26 +483,26 @@ export const mobileFooterNavigation = [
     items: [
       {
         title: "Open Positions",
-        url: "https://dxdocs.eth.link/docs/ContributorHub/open-positions-and-bounties/",
+        url: "https://dxdocs.eth.limo/docs/ContributorHub/open-positions-and-bounties/",
         external: true,
       },
       {
         title: "Onboarding",
-        url: "https://dxdocs.eth.link/docs/ContributorHub/contributor-onboarding/",
+        url: "https://dxdocs.eth.limo/docs/ContributorHub/contributor-onboarding/",
         external: true,
       },
       {
         title: "Proposals",
-        url: "https://dxdocs.eth.link/docs/ContributorHub/contributor-proposals/",
+        url: "https://dxdocs.eth.limo/docs/ContributorHub/contributor-proposals/",
       },
       {
         title: "Compensations",
-        url: "https://dxdocs.eth.link/docs/ContributorHub/contributor-compensation/",
+        url: "https://dxdocs.eth.limo/docs/ContributorHub/contributor-compensation/",
         external: true,
       },
       {
         title: "Standards of Conduct",
-        url: "https://dxdocs.eth.link/docs/ContributorHub/standards-of-conduct/",
+        url: "https://dxdocs.eth.limo/docs/ContributorHub/standards-of-conduct/",
         external: true,
       },
     ],
@@ -520,32 +520,32 @@ export const mobileNavMenu = [
     content: [
       {
         title: "Omen",
-        link: "https://dxdocs.eth.link/docs/Products/omen/",
+        link: "https://dxdocs.eth.limo/docs/Products/omen/",
         external: true,
       },
       {
         title: "Swapr",
-        link: "https://dxdocs.eth.link/docs/Products/swapr/",
+        link: "https://dxdocs.eth.limo/docs/Products/swapr/",
         external: true,
       },
       {
         title: "Mesa",
-        link: "https://dxdocs.eth.link/docs/Products/mesa/",
+        link: "https://dxdocs.eth.limo/docs/Products/mesa/",
         external: true,
       },
       {
         title: "Aqua",
-        link: "https://dxdocs.eth.link/docs/Products/aqua/ ",
+        link: "https://dxdocs.eth.limo/docs/Products/aqua/ ",
         external: true,
       },
       {
         title: "Carrot",
-        url: "https://dxdocs.eth.link/docs/Products/carrot/",
+        url: "https://dxdocs.eth.limo/docs/Products/carrot/",
         external: true,
       },
       {
         title: "DXgov",
-        url: "https://dxdocs.eth.link/docs/Products/dxgov/",
+        url: "https://dxdocs.eth.limo/docs/Products/dxgov/",
         external: true,
       },
     ],
@@ -556,12 +556,12 @@ export const mobileNavMenu = [
     content: [
       {
         title: "DXvote",
-        link: "https://dxdocs.eth.link/docs/Governance/DXvote/",
+        link: "https://dxdocs.eth.limo/docs/Governance/DXvote/",
         external: true,
       },
       {
         title: "Forum",
-        link: "https://dxdocs.eth.link/docs/Governance/Daotalk/",
+        link: "https://dxdocs.eth.limo/docs/Governance/Daotalk/",
         external: true,
       },
     ],
@@ -575,32 +575,32 @@ export const mobileNavMenu = [
         listItems: [
           {
             title: "DXD",
-            link: "https://dxdocs.eth.link/docs/DXD/",
+            link: "https://dxdocs.eth.limo/docs/DXD/",
             external: true,
           },
           {
             title: "Manifesto",
-            link: "https://dxdocs.eth.link/docs/Manifesto/",
+            link: "https://dxdocs.eth.limo/docs/Manifesto/",
             external: true,
           },
           {
             title: "FAQ",
-            link: "https://dxdocs.eth.link/docs/FAQ/",
+            link: "https://dxdocs.eth.limo/docs/FAQ/",
             external: true,
           },
           {
             title: "Dxventures",
-            link: "https://dxdocs.eth.link/docs/DXventures/",
+            link: "https://dxdocs.eth.limo/docs/DXventures/",
             external: true,
           },
           {
             title: "Meetings",
-            link: "https://dxdocs.eth.link/docs/Meetings/",
+            link: "https://dxdocs.eth.limo/docs/Meetings/",
             external: true,
           },
           {
             title: "Brand Assets",
-            link: "https://dxdocs.eth.link/docs/BrandingAssets/",
+            link: "https://dxdocs.eth.limo/docs/BrandingAssets/",
             external: true,
           },
         ],
@@ -610,27 +610,27 @@ export const mobileNavMenu = [
         listItems: [
           {
             title: "Omen",
-            link: "https://dxdocs.eth.link/docs/Products/omen/",
+            link: "https://dxdocs.eth.limo/docs/Products/omen/",
             external: true,
           },
           {
             title: "Swapr",
-            link: "https://dxdocs.eth.link/docs/Products/swapr/",
+            link: "https://dxdocs.eth.limo/docs/Products/swapr/",
             external: true,
           },
           {
             title: "Mesa",
-            link: "https://dxdocs.eth.link/docs/Products/mesa/",
+            link: "https://dxdocs.eth.limo/docs/Products/mesa/",
             external: true,
           },
           {
             title: "Carrot",
-            url: "https://dxdocs.eth.link/docs/Products/carrot/",
+            url: "https://dxdocs.eth.limo/docs/Products/carrot/",
             external: true,
           },
           {
             title: "DXgov",
-            url: "https://dxdocs.eth.link/docs/Products/dxgov/",
+            url: "https://dxdocs.eth.limo/docs/Products/dxgov/",
             external: true,
           },
         ],
@@ -665,17 +665,17 @@ export const mobileNavMenu = [
         listItems: [
           {
             title: "DXvote",
-            link: "https://dxdocs.eth.link/docs/Governance/DXvote/",
+            link: "https://dxdocs.eth.limo/docs/Governance/DXvote/",
             external: true,
           },
           {
             title: "REP",
-            link: "https://dxdocs.eth.link/docs/Governance/REP/",
+            link: "https://dxdocs.eth.limo/docs/Governance/REP/",
             external: true,
           },
           {
             title: "DAOtalk",
-            link: "https://dxdocs.eth.link/docs/Governance/Daotalk/",
+            link: "https://dxdocs.eth.limo/docs/Governance/Daotalk/",
             external: true,
           },
         ],
@@ -685,27 +685,27 @@ export const mobileNavMenu = [
         listItems: [
           {
             title: "Open Positions",
-            link: "https://dxdocs.eth.link/docs/ContributorHub/open-positions-and-bounties/",
+            link: "https://dxdocs.eth.limo/docs/ContributorHub/open-positions-and-bounties/",
             external: true,
           },
           {
             title: "Onboarding",
-            link: "https://dxdocs.eth.link/docs/ContributorHub/contributor-onboarding/",
+            link: "https://dxdocs.eth.limo/docs/ContributorHub/contributor-onboarding/",
             external: true,
           },
           {
             title: "Proposals",
-            link: "https://dxdocs.eth.link/docs/ContributorHub/contributor-proposals/",
+            link: "https://dxdocs.eth.limo/docs/ContributorHub/contributor-proposals/",
             external: true,
           },
           {
             title: "Compensation",
-            link: "https://dxdocs.eth.link/docs/ContributorHub/contributor-compensation/",
+            link: "https://dxdocs.eth.limo/docs/ContributorHub/contributor-compensation/",
             external: true,
           },
           {
             title: "Standards of Conduct",
-            link: "https://dxdocs.eth.link/docs/ContributorHub/standards-of-conduct/",
+            link: "https://dxdocs.eth.limo/docs/ContributorHub/standards-of-conduct/",
             external: true,
           },
         ],
@@ -719,7 +719,7 @@ export const mobileNavMenu = [
   },
   {
     name: "Codebase",
-    href: "https://dxdocs.eth.link/docs/Codebase/",
+    href: "https://dxdocs.eth.limo/docs/Codebase/",
     external: true,
   },
 ];
@@ -733,28 +733,28 @@ export const mainNavigation = [
         {
           name: "Swapr",
           detail: "Governance Enabled AMM",
-          link: "https://swapr.eth.link/",
+          link: "https://swapr.eth.limo/",
           img: SwaprImg,
           external: true,
         },
         // {
         //     name: 'Mesa',
         //     detail: 'Fair IDO launchpad',
-        //     link: 'https://mesa.eth.link/',
+        //     link: 'https://mesa.eth.limo/',
         //     img: MesaImg,
         //     external: true
         // },
         {
           name: "Mesa",
           detail: "Fair IDO launchpad",
-          link: "https://mesa.eth.link/",
+          link: "https://mesa.eth.limo/",
           img: MesaImg,
           external: true,
         },
         {
           name: "Omen",
           detail: "Decentralized Prediction Markets",
-          link: "https://omen.eth.link/",
+          link: "https://omen.eth.limo/",
           img: OmenImg,
           external: true,
         },
@@ -776,7 +776,7 @@ export const mainNavigation = [
         {
           name: "DXvote",
           detail: "DXdao’s governance Dapp",
-          link: "https://dxvote.eth.link",
+          link: "https://dxvote.eth.limo",
           img: DXgov,
           external: true,
         },
@@ -793,32 +793,32 @@ export const mainNavigation = [
           listItems: [
             {
               title: "DXD",
-              link: "https://dxdocs.eth.link/docs/DXD/",
+              link: "https://dxdocs.eth.limo/docs/DXD/",
               external: true,
             },
             {
               title: "Manifesto",
-              link: "https://dxdocs.eth.link/docs/Manifesto/",
+              link: "https://dxdocs.eth.limo/docs/Manifesto/",
               external: true,
             },
             {
               title: "FAQ",
-              link: "https://dxdocs.eth.link/docs/FAQ/",
+              link: "https://dxdocs.eth.limo/docs/FAQ/",
               external: true,
             },
             {
               title: "Dxventures",
-              link: "https://dxdocs.eth.link/docs/DXventures/",
+              link: "https://dxdocs.eth.limo/docs/DXventures/",
               external: true,
             },
             {
               title: "Meetings",
-              link: "https://dxdocs.eth.link/docs/Meetings/",
+              link: "https://dxdocs.eth.limo/docs/Meetings/",
               external: true,
             },
             {
               title: "Brand Assets",
-              link: "https://dxdocs.eth.link/docs/BrandingAssets/",
+              link: "https://dxdocs.eth.limo/docs/BrandingAssets/",
               external: true,
             },
           ],
@@ -828,22 +828,22 @@ export const mainNavigation = [
           listItems: [
             {
               title: "Omen",
-              link: "https://dxdocs.eth.link/docs/Products/omen/",
+              link: "https://dxdocs.eth.limo/docs/Products/omen/",
               external: true,
             },
             {
               title: "Swapr",
-              link: "https://dxdocs.eth.link/docs/Products/swapr/",
+              link: "https://dxdocs.eth.limo/docs/Products/swapr/",
               external: true,
             },
             {
               title: "Mesa",
-              link: "https://dxdocs.eth.link/docs/Products/mesa/",
+              link: "https://dxdocs.eth.limo/docs/Products/mesa/",
               external: true,
             },
             {
               title: "Aqua",
-              link: "https://dxdocs.eth.link/docs/Products/aqua/ ",
+              link: "https://dxdocs.eth.limo/docs/Products/aqua/ ",
               external: true,
             },
           ],
@@ -878,17 +878,17 @@ export const mainNavigation = [
           listItems: [
             {
               title: "DXvote",
-              link: "https://dxdocs.eth.link/docs/Governance/DXvote/",
+              link: "https://dxdocs.eth.limo/docs/Governance/DXvote/",
               external: true,
             },
             {
               title: "REP",
-              link: "https://dxdocs.eth.link/docs/Governance/REP/",
+              link: "https://dxdocs.eth.limo/docs/Governance/REP/",
               external: true,
             },
             {
               title: "DAOtalk",
-              link: "https://dxdocs.eth.link/docs/Governance/Daotalk/",
+              link: "https://dxdocs.eth.limo/docs/Governance/Daotalk/",
               external: true,
             },
           ],
@@ -898,27 +898,27 @@ export const mainNavigation = [
           listItems: [
             {
               title: "Open Positions",
-              link: "https://dxdocs.eth.link/docs/ContributorHub/open-positions-and-bounties/",
+              link: "https://dxdocs.eth.limo/docs/ContributorHub/open-positions-and-bounties/",
               external: true,
             },
             {
               title: "Onboarding",
-              link: "https://dxdocs.eth.link/docs/ContributorHub/contributor-onboarding/",
+              link: "https://dxdocs.eth.limo/docs/ContributorHub/contributor-onboarding/",
               external: true,
             },
             {
               title: "Proposals",
-              link: "https://dxdocs.eth.link/docs/ContributorHub/contributor-proposals/",
+              link: "https://dxdocs.eth.limo/docs/ContributorHub/contributor-proposals/",
               external: true,
             },
             {
               title: "Compensation",
-              link: "https://dxdocs.eth.link/docs/ContributorHub/contributor-compensation/",
+              link: "https://dxdocs.eth.limo/docs/ContributorHub/contributor-compensation/",
               external: true,
             },
             {
               title: "Standards of Conduct",
-              link: "https://dxdocs.eth.link/docs/ContributorHub/standards-of-conduct/",
+              link: "https://dxdocs.eth.limo/docs/ContributorHub/standards-of-conduct/",
               external: true,
             },
           ],
@@ -937,7 +937,7 @@ export const mainNavigation = [
   },
   {
     name: "Codebase",
-    href: "https://dxdocs.eth.link/docs/Codebase/",
+    href: "https://dxdocs.eth.limo/docs/Codebase/",
     external: true,
   },
 ];

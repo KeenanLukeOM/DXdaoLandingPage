@@ -31,7 +31,7 @@ const Features = () => {
       buttons: [
         {
           label: "LEARN MORE",
-          to: "https://dxdocs.eth.link/docs/Governance/",
+          to: "https://dxdocs.eth.limo/docs/Governance/",
         },
       ],
     },
@@ -47,7 +47,7 @@ const Features = () => {
           type: "secondary",
           label: "DXVOTE",
           infoText: "DXdao’s governance Dapp",
-          to: "https://dxvote.eth.link",
+          to: "https://dxvote.eth.limo",
         },
         {
           type: "secondary",

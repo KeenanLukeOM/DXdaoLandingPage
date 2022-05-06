@@ -1,4 +1,4 @@
-import React, {useEffect, useState, useRef} from "react"
+import React, { useEffect, useState, useRef } from "react"
 import styled from 'styled-components';
 import CardContent from "../CardContent/CardContent";
 import Left from "../../../images/landing/svg/Icons-Getting_Started_Community.svg";
@@ -8,7 +8,7 @@ import GettingStartedBackground from '../../../images/getting_started/getting_st
 import GettingStartedGraphic from '../../../images/getting_started/getting_started.png'
 import LeftLine from "../../../images/landing/custom_exports/LineLeft.png";
 import RightLine from "../../../images/landing/custom_exports/LineRight.png";
-import {breakpoints} from "./../../../utils/theme";
+import { breakpoints } from "./../../../utils/theme";
 
 import GettingStartedMask from '../../../images/getting_started/GettingStartedMask.png'
 import Planet from '../../../images/getting_started/planet.png'
@@ -44,7 +44,7 @@ const GettingStarted = (props) => {
             });
         }
     }, []);
-    
+
     useEffect(() => {
         setIsMobile(viewportWidth < 992);
     }, [viewportWidth]);
@@ -62,7 +62,7 @@ const GettingStarted = (props) => {
     const getting = [
         {
             img: Left,
-            title: <span>Join the <br/>community</span>,
+            title: <span>Join the <br />community</span>,
             description: 'Welcome to a growing global community with no barrier to entry! Everyone is encouraged to express their opinions and participate in any active conversation about DXdao or its products.',
             positionImg: 'left',
             positionText: 'left',
@@ -76,12 +76,12 @@ const GettingStarted = (props) => {
                 size: 'small',
                 type: 'outline',
                 label: 'LEARN MORE',
-                to: 'https://dxdocs.eth.link/'
+                to: 'https://dxdocs.eth.limo/'
             }
         },
         {
             img: Middle,
-            title: <span>Become a<br/> contributor</span>,
+            title: <span>Become a<br /> contributor</span>,
             description: 'As a transparent and unstoppable entity DXdao is always searching for talent in the Web3 space. Want to make your mark in the future of work? Join us.',
             positionImg: 'left',
             positionText: 'left',
@@ -95,7 +95,7 @@ const GettingStarted = (props) => {
                 size: 'small',
                 type: 'outline',
                 label: 'LEARN MORE',
-                to: 'https://dxdocs.eth.link/docs/ContributorHub/ '
+                to: 'https://dxdocs.eth.limo/docs/ContributorHub/ '
             }
         },
         {
@@ -114,7 +114,7 @@ const GettingStarted = (props) => {
                 size: 'small',
                 type: 'outline',
                 label: 'LEARN MORE',
-                to: 'https://dxdocs.eth.link/docs/DXventures/'
+                to: 'https://dxdocs.eth.limo/docs/DXventures/'
             }
         }
     ];
@@ -126,10 +126,10 @@ const GettingStarted = (props) => {
                 <div className="get-started-graphic" />
                 <div className="planet" style={{
                     backgroundPosition: `calc(50% - 60px) calc(((${scrollPosition}px - ${getStartedPosition}px) / 8) + 60px)`
-                }}/>
+                }} />
                 <div className="star" style={{
                     backgroundPosition: `50% calc(((${scrollPosition}px - ${getStartedPosition}px) / 20) + 20px)`
-                }}/>
+                }} />
             </section>
             <section id="getting-started-link-target" className="main-width starter-wrapper">
                 <section className="get-started-title" data-aos="fade-up">
@@ -140,7 +140,7 @@ const GettingStarted = (props) => {
                         return (
                             <CardContent
                                 dataAosDelay={isMobile ? 0 : (index * 400) + 100}
-                                key={`card-`+ index}
+                                key={`card-` + index}
                                 img={item.img}
                                 title={item.title}
                                 description={item.description}
@@ -148,7 +148,7 @@ const GettingStarted = (props) => {
                                 positionText={item.positionText}
                                 primaryButton={item.primaryButton}
                                 secondaryButton={item.secondaryButton}
-                                cardType={'simple'} 
+                                cardType={'simple'}
                             />
                         );
                     })}
