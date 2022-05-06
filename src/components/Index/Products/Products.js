@@ -53,26 +53,6 @@ const Products = () => {
       },
     },
     {
-      img: Omen,
-      title: "Omen",
-      positionImg: "center",
-      positionText: "center",
-      description:
-        "A fully decenetralized prediction market platform built on top of the Gnosis conditional token framework.",
-      primaryButton: {
-        size: "small",
-        type: "secondary",
-        label: "USE OMEN",
-        to: "https://omen.eth.limo/",
-      },
-      secondaryButton: {
-        size: "small",
-        type: "outline",
-        label: "LEARN MORE",
-        to: "https://dxdocs.eth.limo/docs/Products/omen/",
-      },
-    },
-    {
       img: Carrot,
       title: "Carrot",
       positionImg: "center",
@@ -94,27 +74,25 @@ const Products = () => {
       },
     },
     {
-      img: Aqua,
-      title: "Aqua",
+      img: Omen,
+      title: "Omen",
       positionImg: "center",
       positionText: "center",
       description:
-        "Aqua is the place to conduct transparent token auctions with a fair price discovery.",
+        "A fully decenetralized prediction market platform built on top of the Gnosis conditional token framework.",
       primaryButton: {
         size: "small",
         type: "secondary",
-        label: "COMING SOON",
-        disabled: true,
-        to: "https://Aqua.eth.limo/",
+        label: "USE OMEN",
+        to: "https://omen.eth.limo/",
       },
       secondaryButton: {
         size: "small",
         type: "outline",
         label: "LEARN MORE",
-        to: "https://dxdocs.eth.limo/docs/Products/aqua/",
+        to: "https://dxdocs.eth.limo/docs/Products/omen/",
       },
-    }
-    ,
+    },
     {
       img: DXgov,
       title: "DXgov",
@@ -140,6 +118,27 @@ const Products = () => {
         type: "outline",
         label: "LEARN MORE",
         to: "https://dxdocs.eth.limo/docs/Governance/DXvote/",
+      },
+    },
+    {
+      img: Aqua,
+      title: "Aqua",
+      positionImg: "center",
+      positionText: "center",
+      description:
+        "Aqua is the place to conduct transparent token auctions with a fair price discovery.",
+      primaryButton: {
+        size: "small",
+        type: "secondary",
+        label: "COMING SOON",
+        disabled: true,
+        to: "https://Aqua.eth.limo/",
+      },
+      secondaryButton: {
+        size: "small",
+        type: "outline",
+        label: "LEARN MORE",
+        to: "https://dxdocs.eth.limo/docs/Products/aqua/",
       },
     },
   ];
