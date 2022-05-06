@@ -4,6 +4,7 @@ import AquaLogo from "./../images/Logo-AquaRound.svg";
 import OmenImg from "./../images/Omen-logo.svg";
 import ForumImg from "./../images/DaoTalk_logo.svg";
 import DXgov from "./../images/Logo-DXdao_Grey.svg";
+import CarrotImg from "./../images/landing/svg/Carrot.svg";
 import SnapshotImg from "./../images/Snapshot_logo.svg";
 
 export const footerNavigation = [
@@ -745,10 +746,10 @@ export const mainNavigation = [
         //     external: true
         // },
         {
-          name: "Mesa",
-          detail: "Fair IDO launchpad",
-          link: "https://mesa.eth.limo/",
-          img: MesaImg,
+          name: "Carrot",
+          detail: "Programmable Incentives",
+          link: "https://Carrot.eth.limo/",
+          img: CarrotImg,
           external: true,
         },
         {
@@ -756,6 +757,13 @@ export const mainNavigation = [
           detail: "Decentralized Prediction Markets",
           link: "https://omen.eth.limo/",
           img: OmenImg,
+          external: true,
+        },
+        {
+          name: "Mesa",
+          detail: "Fair IDO launchpad",
+          link: "https://mesa.eth.limo/",
+          img: MesaImg,
           external: true,
         },
       ],
