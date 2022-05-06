@@ -21,20 +21,16 @@ const Partners = () => {
             to: 'https://gnosis.io/'
         },
         {
-            img: Loopring,
-            to: 'https://loopring.org/#/'
-        },
-        {
             img: xDai,
             to: 'https://www.xdaichain.com/'
         },
         {
-            img: Opolis,
-            to: 'https://opolis.co/'
+            img: Loopring,
+            to: 'https://loopring.org/#/'
         },
         {
-            img: DAOstack,
-            to: 'https://daostack.io/'
+            img: Opolis,
+            to: 'https://opolis.co/'
         },
         {
             img: Status,
@@ -43,6 +39,10 @@ const Partners = () => {
         {
             img: Agave,
             to: 'https://agave.finance/'
+        },
+        {
+            img: DAOstack,
+            to: 'https://daostack.io/'
         }
     ]
 
