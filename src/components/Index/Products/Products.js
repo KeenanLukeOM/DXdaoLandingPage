@@ -79,7 +79,7 @@ const Products = () => {
       positionImg: "center",
       positionText: "center",
       description:
-        "A fully decenetralized prediction market platform built on top of the Gnosis conditional token framework.",
+        "A fully decentralized prediction market platform built on top of the Gnosis conditional token framework.",
       primaryButton: {
         size: "small",
         type: "secondary",
