@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import Arbitrum from '../../../images/landing/svg/Logo-Arbitrum.svg';
 import Gnosis from '../../../images/landing/svg/Logo-Gnosis.svg';
 import Loopring from '../../../images/landing/svg/Logo-Loopring.svg';
-import xDai from '../../../images/landing/svg/Logo-xDai.svg';
+import GnosisChain from '../../../images/landing/svg/Logo-GnosisChain.svg';
 import Opolis from '../../../images/landing/svg/Logo-Opolis.svg';
 import DAOstack from '../../../images/landing/svg/Logo-DAOstack.svg';
 import Status from '../../../images/landing/svg/Logo-Status.svg';
@@ -19,10 +19,6 @@ const Partners = () => {
         {
             img: Gnosis,
             to: 'https://gnosis.io/'
-        },
-        {
-            img: xDai,
-            to: 'https://www.xdaichain.com/'
         },
         {
             img: Loopring,
@@ -43,7 +39,11 @@ const Partners = () => {
         {
             img: DAOstack,
             to: 'https://daostack.io/'
-        }
+        },
+        {
+            img: GnosisChain,
+            to: 'https://www.xdaichain.com/'
+        },
     ]
 
     return (
