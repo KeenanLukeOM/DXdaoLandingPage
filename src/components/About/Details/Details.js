@@ -16,7 +16,7 @@ const Details = () => {
         {
             img: Sovereignty,
             title: 'DAO Sovereignty',
-            description: 'DXdao is a 100% on-chain organization, so governance and development hingest on building capabilities for the DAO itself to intereact with the rest of the world. All DXdao products and the DXdao website are owned and governed by the DAO itself through the ENS name system. Taking down or changing this website requrires a passed proposal from DXdao. DXdao currently operates three bases, one on Ethereum mainnet, xDai and Arbitrum One, and always interested in expanding to new chains that match its decentralization ethos.',
+            description: 'DXdao is a 100% on-chain organization, so governance and development hingest on building capabilities for the DAO itself to interact with the rest of the world. All DXdao products and the DXdao website are owned and governed by the DAO itself through the ENS name system. Taking down or changing this website requires a passed proposal from DXdao. DXdao currently operates three bases, one on Ethereum mainnet, xDai and Arbitrum One, and always interested in expanding to new chains that match its decentralization ethos.',
             position: 'right'
         },
         {
