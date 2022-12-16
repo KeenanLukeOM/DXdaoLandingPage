@@ -4,7 +4,7 @@ import ProductCard from "./ProductCard";
 import Swapr from "../../../images/landing/svg/Logo-Product_Swapr.svg";
 import Omen from "../../../images/landing/svg/Logo-Product_Omen.svg";
 import Carrot from "../../../images/landing/svg/Carrot.svg";
-import DXgov from "../../../images/landing/svg/DXgov.svg";
+import DAVI from "../../../images/landing/svg/DAVI.svg";
 import Aqua from "../../../images/Logo-AquaRound.svg";
 import MobileConnector from "./../../../images/Products-Conector-Mobile@2x.png";
 import ProductsGradientDesktop from "./../../../images/ProductsGradientDesktop.png";
@@ -53,6 +53,26 @@ const Products = () => {
       },
     },
     {
+      img: DAVI,
+      title: "DAVI",
+      positionImg: "center",
+      positionText: "center",
+      description:
+        "Governance 2.0. A platform made for DAOs by a DAO. Reputation, token voting and holographic consensus.",
+      primaryButton: {
+        size: "small",
+        type: "secondary",
+        label: "TRY THE BETA",
+        to: "https://projectdavi.eth.limo/",
+      },
+      secondaryButton: {
+        size: "small",
+        type: "outline",
+        label: "LEARN MORE",
+        to: "https://github.com/DXgovernance",
+      },
+    },
+    {
       img: Carrot,
       title: "Carrot",
       positionImg: "center",
@@ -91,33 +111,6 @@ const Products = () => {
         type: "outline",
         label: "LEARN MORE",
         to: "https://dxdocs.eth.limo/docs/Products/omen/",
-      },
-    },
-    {
-      img: DXgov,
-      title: "DXgov",
-      positionImg: "center",
-      positionText: "center",
-      description: (
-        <span>
-          Governance 2.0.
-          <br />A platform made for DAOs by a DAO.
-          <br />
-          Reputation, token voting and holographic consensus.
-        </span>
-      ),
-      primaryButton: {
-        size: "small",
-        type: "secondary",
-        label: "COMING SOON",
-        disabled: true,
-        to: "https://dxvote.eth.limo/",
-      },
-      secondaryButton: {
-        size: "small",
-        type: "outline",
-        label: "LEARN MORE",
-        to: "https://dxdocs.eth.limo/docs/Governance/DXvote/",
       },
     },
     {

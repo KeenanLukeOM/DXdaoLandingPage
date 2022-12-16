@@ -48,7 +48,7 @@ export const footerNavigation = [
       },
       {
         title: "Codebase",
-        url: "https://dxdocs.eth.link/docs/Technical%20Documentation/Codebase/",
+        url: "https://dxdocs.eth.limo/docs/Technical%20Documentation/Codebase/",
         external: true,
       },
       {
@@ -379,7 +379,7 @@ export const mobileFooterNavigation = [
       },
       {
         title: "Codebase",
-        url: "https://dxdocs.eth.link/docs/Technical%20Documentation/Codebase/",
+        url: "https://dxdocs.eth.limo/docs/Technical%20Documentation/Codebase/",
         external: true,
       },
       {
@@ -720,7 +720,7 @@ export const mobileNavMenu = [
   },
   {
     name: "Codebase",
-    href: "https://dxdocs.eth.link/docs/Technical%20Documentation/Codebase/",
+    href: "https://dxdocs.eth.limo/docs/Technical%20Documentation/Codebase/",
     external: true,
   },
 ];
@@ -945,7 +945,7 @@ export const mainNavigation = [
   },
   {
     name: "Codebase",
-    href: "https://dxdocs.eth.link/docs/Technical%20Documentation/Codebase/",
+    href: "https://dxdocs.eth.limo/docs/Technical%20Documentation/Codebase/",
     external: true,
   },
 ];
