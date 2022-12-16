@@ -101,7 +101,7 @@ const GettingStarted = (props) => {
         {
             img: Right,
             title: <span>Share what you are building</span>,
-            description: 'Are you building something relevent to DeFi, Web3, and DAO’s? DXdao may be interested in incubating or funding your project through DXventures.',
+            description: 'Are you building something relevant to DeFi, Web3, and DAO’s? DXdao may be interested in incubating or funding your project through DXventures.',
             positionImg: 'left',
             positionText: 'left',
             primaryButton: {

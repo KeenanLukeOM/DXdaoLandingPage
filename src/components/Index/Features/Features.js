@@ -26,7 +26,7 @@ const Features = () => {
         </span>
       ),
       description:
-        "DXdao’s guiding philosophy is decentralization. Eliminating reliance on central operators ensures fair access to public infrastructure for all. DXdao’s products and governance are permissionless and decentralized, because they attract an organic community that builds resilliency. ",
+        "DXdao’s guiding philosophy is decentralization. Eliminating reliance on central operators ensures fair access to public infrastructure for all. DXdao’s products and governance are permissionless and decentralized, because they attract an organic community that builds resiliency. ",
       position: "left",
       buttons: [
         {
